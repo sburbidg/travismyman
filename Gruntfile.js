@@ -10,8 +10,8 @@ module.exports = function(grunt) {
       options: {
         jshintrc: true
       }
-    }
-  },
+    },
+
 
     simplemocha: {
       src: ['test/**/*.js']
